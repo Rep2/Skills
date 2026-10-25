@@ -16,4 +16,4 @@ Do not put eng skills under `~/.cursor/skills-cursor/` (Cursor-managed built-ins
 
 | Skill | When |
 |-------|------|
-| [merge-before-testflight](./merge-before-testflight/SKILL.md) | Shipping TestFlight / beta builds for any iOS app — merge to default via PR first |
+| [merge-before-testflight](./merge-before-testflight/SKILL.md) | Shipping any build (TestFlight / Play Store / web) — merge to default via PR first |
